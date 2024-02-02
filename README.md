@@ -28,3 +28,7 @@ This project incorporates code from the following project:
 
 - Original Project: [TETR-VERGE](https://github.com/MrMeCoding/TETR-VERGE)
 - License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## oh also I unintentionally also bundled this with fumen image bot so uh you get that too I guess
+
+requires `npm install tetris-fumen canvas gifencoder follow-redirects` maybe
